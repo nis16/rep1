@@ -1,4 +1,7 @@
 int main()
 {
-  return 0;
+   int *ptr;
+   ptr++;
+
+  return 777;
 }
