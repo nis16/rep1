@@ -3,5 +3,5 @@ int main()
    int *ptr;
    ptr++;
 
-  return 777;
+  return 777+1;
 }
